@@ -1,0 +1,39 @@
+
+
+
+1 - O que são sistemas embarcados?
+
+Software e hardware dedicados para executar uma função específica, que processam informações embarcadas em produtos. 
+
+2 - O que são sistemas microprocesssados?
+
+Sistemas onde o computador é encapsulado ou dedicado ao sistema que ele controla.
+
+
+3 - Apresente aplicações de sistemas embarcados:
+(a) Para a indústria automotiva;
+	- Acionador de airbag
+
+(b) Para eletrodomésticos;
+	- Torradeira elétrica
+
+(c) Para automação industrial.
+	- Abridor de persianas automatizados
+
+
+4 - Cite arquiteturas possíveis e as diferenças entre elas.
+ 
+ - Microcontroladores: sistema de controle com microprocessador, memória e periféricos que permite a criação de circuitos e projetos dedicados.
+
+ - FPGA: Circuito integrado reconfigurável que permite a criação e a execução de projetos.
+
+Dentre outras (DSPs, ASICs, SoCs, MPSoCs)
+
+
+5 - Por que usamos o Raspberry Pi na disciplina, ao invés de outro system-on-chip?
+ - Baixo custo;
+ - Documentação;
+ - Tamanho;
+ - Slot para cartão de memória;
+ - Interface USB e HDMI;
+ - Escolha do professor.
